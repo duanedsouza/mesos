@@ -1,4 +1,4 @@
-set(BOOST_VERSION       "1.53.0")
+set(BOOST_VERSION       "1.58.0")
 set(CURL_VERSION        "7.43.0")
 set(ELFIO_VERSION       "3.2")
 set(GLOG_VERSION        "0.3.3")
